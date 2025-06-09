@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b44498008d785e43be7d0385b88b6bd, type: 3}
+  m_Name: Mana
+  m_EditorClassIdentifier: 
+  requiredMaterials: 00000000020000000300000003000000
+  recipeSprite: {fileID: 21300000, guid: 4a50e2fa3c2539e46a2f684f23951641, type: 3}
+  recipeIcon: {fileID: 21300000, guid: 93f3a7dc6ed1d274cbaf2e164cd8ff11, type: 3}
+  recipeName: Mana
+  startDialogs:
+  - "\xA1Hola! Me gaste todo el mana en un jefe. \xA1Quiero una pocion que me deje
+    re arriba!"
+  - "Me dijeron que vendes brebajes de mana. \xA1Quiero una pocion y la quiero ya!
+    O no pago\u2026"
